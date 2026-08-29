@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ng7357/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ng7357/leetcode-solutions/tree/main/Java/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/ng7357/leetcode-solutions/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 ## String
 | Problem Name | Difficulty |
